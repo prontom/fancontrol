@@ -1,5 +1,5 @@
 This script control fan speed in dependences of temperature CPU & SSD in linear or discreet modes.
-This script need for package lm-sensors and probability something else.
+For this script need package lm-sensors and probability something else.
 I place command in cron for guarantee of continuity of work
 
 cron
